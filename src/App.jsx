@@ -1,5 +1,15 @@
+const user = {
+  name: "Chef"
+}
+
 export default function App() {
     return (
-      <h1>Hello React</h1>
+      <div>
+        <h1>Hello</h1>
+        <h1>
+          Steve
+        </h1>
+      </div>
     )
 }
+
